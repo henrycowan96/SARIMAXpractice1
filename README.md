@@ -1,0 +1,1 @@
+# SARIMAXpractice1
